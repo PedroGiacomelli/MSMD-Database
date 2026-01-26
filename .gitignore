@@ -1,0 +1,8 @@
+# --- BLOCK KEYS ---
+.env
+maintenance_reset.py
+
+# --- BLOCK JUNK ---
+__pycache__/
+*.pyc
+.vscode/
